@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/websocket-close-codes",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Enum of WebSocket close codes",
   "main": "dist/websocket-close-codes.js",
   "types": "dist/websocket-close-codes.d.ts",
