@@ -20,6 +20,11 @@ console.log(WSCloseCode.NormalClosure)
 //=>1000
 ```
 
+Related
+-------
+
+*   [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/API/CloseEvent)
+
 ## Index
 
 ---
