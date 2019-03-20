@@ -15,3 +15,7 @@ import WSCloseCode from '@strong-roots-capital/websocket-close-codes'
 console.log(WSCloseCode.NormalClosure)
 //=>1000
 ```
+
+## Related
+
+- [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/API/CloseEvent)
